@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 171
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/domain
+V 175
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/domain
 END
 Movie.java
 K 25
 svn:wc:ra_dav:version-url
-V 182
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/domain/Movie.java
+V 186
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/domain/Movie.java
 END
 Genre.java
 K 25
 svn:wc:ra_dav:version-url
-V 182
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/domain/Genre.java
+V 186
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/domain/Genre.java
 END

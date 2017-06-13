@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 183
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/client
+V 187
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/client
 END
 MovieFinderClientRunner.java
 K 25
 svn:wc:ra_dav:version-url
-V 212
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/client/MovieFinderClientRunner.java
+V 216
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/client/MovieFinderClientRunner.java
 END
 MovieFinderClient.java
 K 25
 svn:wc:ra_dav:version-url
-V 206
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/client/MovieFinderClient.java
+V 210
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/client/MovieFinderClient.java
 END

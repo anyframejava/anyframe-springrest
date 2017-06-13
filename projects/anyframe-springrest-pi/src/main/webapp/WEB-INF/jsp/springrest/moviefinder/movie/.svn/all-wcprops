@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 176
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/src/main/webapp/WEB-INF/jsp/springrest/moviefinder/movie
+V 180
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/webapp/WEB-INF/jsp/springrest/moviefinder/movie
 END
 list.jsp
 K 25
 svn:wc:ra_dav:version-url
-V 185
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/src/main/webapp/WEB-INF/jsp/springrest/moviefinder/movie/list.jsp
+V 189
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/webapp/WEB-INF/jsp/springrest/moviefinder/movie/list.jsp
 END
 form.jsp
 K 25
 svn:wc:ra_dav:version-url
-V 185
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/src/main/webapp/WEB-INF/jsp/springrest/moviefinder/movie/form.jsp
+V 189
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/webapp/WEB-INF/jsp/springrest/moviefinder/movie/form.jsp
 END
