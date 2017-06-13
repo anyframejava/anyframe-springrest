@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/db/hsqldb
+END
+sqltool.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/db/hsqldb/sqltool.cmd
+END
+start.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/db/hsqldb/start.cmd
+END
+dbmanager-awt.sh
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/db/hsqldb/dbmanager-awt.sh
+END
+sampledb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/db/hsqldb/sampledb.properties
+END
+hsqldb-2.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/db/hsqldb/hsqldb-2.0.0.jar
+END
+sqltool-2.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/db/hsqldb/sqltool-2.0.0.jar
+END
+sqltool.sh
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/db/hsqldb/sqltool.sh
+END
+start.sh
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/db/hsqldb/start.sh
+END
+sampledb.script
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/db/hsqldb/sampledb.script
+END
+dbmanager-awt.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0/projects/anyframe-springrest-pi/db/hsqldb/dbmanager-awt.cmd
+END
