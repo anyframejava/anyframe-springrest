@@ -1,131 +1,131 @@
 K 25
 svn:wc:ra_dav:version-url
-V 150
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images
+V 144
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images
 END
 ico_update.gif
 K 25
 svn:wc:ra_dav:version-url
-V 165
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_update.gif
+V 159
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_update.gif
 END
 ico_fileupload.gif
 K 25
 svn:wc:ra_dav:version-url
-V 169
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_fileupload.gif
+V 163
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_fileupload.gif
 END
 blit_li.gif
 K 25
 svn:wc:ra_dav:version-url
-V 162
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/blit_li.gif
+V 156
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/blit_li.gif
 END
 btn_prev.gif
 K 25
 svn:wc:ra_dav:version-url
-V 163
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/btn_prev.gif
+V 157
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/btn_prev.gif
 END
 btn_search_i.gif
 K 25
 svn:wc:ra_dav:version-url
-V 167
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/btn_search_i.gif
+V 161
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/btn_search_i.gif
 END
 btn_next.gif
 K 25
 svn:wc:ra_dav:version-url
-V 163
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/btn_next.gif
+V 157
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/btn_next.gif
 END
 blit_location.gif
 K 25
 svn:wc:ra_dav:version-url
-V 168
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/blit_location.gif
+V 162
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/blit_location.gif
 END
 ico_add.gif
 K 25
 svn:wc:ra_dav:version-url
-V 162
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_add.gif
+V 156
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_add.gif
 END
 blit_h2.gif
 K 25
 svn:wc:ra_dav:version-url
-V 162
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/blit_h2.gif
+V 156
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/blit_h2.gif
 END
 btn_calendar_i.gif
 K 25
 svn:wc:ra_dav:version-url
-V 169
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/btn_calendar_i.gif
+V 163
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/btn_calendar_i.gif
 END
 h1_toplogo.jpg
 K 25
 svn:wc:ra_dav:version-url
-V 165
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/h1_toplogo.jpg
+V 159
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/h1_toplogo.jpg
 END
 btn_first.gif
 K 25
 svn:wc:ra_dav:version-url
-V 164
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/btn_first.gif
+V 158
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/btn_first.gif
 END
 ico_back.gif
 K 25
 svn:wc:ra_dav:version-url
-V 163
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_back.gif
+V 157
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_back.gif
 END
 bg_btn.gif
 K 25
 svn:wc:ra_dav:version-url
-V 161
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/bg_btn.gif
+V 155
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/bg_btn.gif
 END
 ico_delete.gif
 K 25
 svn:wc:ra_dav:version-url
-V 165
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_delete.gif
+V 159
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_delete.gif
 END
 bg_maintitle.gif
 K 25
 svn:wc:ra_dav:version-url
-V 167
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/bg_maintitle.gif
+V 161
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/bg_maintitle.gif
 END
 img_greeting.gif
 K 25
 svn:wc:ra_dav:version-url
-V 167
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/img_greeting.gif
+V 161
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/img_greeting.gif
 END
 ico_filedownload.gif
 K 25
 svn:wc:ra_dav:version-url
-V 171
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_filedownload.gif
+V 165
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_filedownload.gif
 END
 ico_view.gif
 K 25
 svn:wc:ra_dav:version-url
-V 163
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_view.gif
+V 157
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_view.gif
 END
 ico_list.gif
 K 25
 svn:wc:ra_dav:version-url
-V 163
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_list.gif
+V 157
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/ico_list.gif
 END
 btn_last.gif
 K 25
 svn:wc:ra_dav:version-url
-V 163
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/webapp/sample/images/btn_last.gif
+V 157
+/subv/!svn/ver/74170/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/webapp/sample/images/btn_last.gif
 END

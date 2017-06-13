@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 166
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/db/resources/db2/src/main/resources/sql/query
+V 160
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/db/resources/db2/src/main/resources/sql/query
 END
 mapping-springrest-movie.xml
 K 25
 svn:wc:ra_dav:version-url
-V 195
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/db/resources/db2/src/main/resources/sql/query/mapping-springrest-movie.xml
+V 189
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/db/resources/db2/src/main/resources/sql/query/mapping-springrest-movie.xml
 END

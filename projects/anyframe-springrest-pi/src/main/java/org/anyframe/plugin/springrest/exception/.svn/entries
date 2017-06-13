@@ -2,7 +2,7 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/exception
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/exception
 http://dev.anyframejava.org/subv
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2017-06-13T00:39:25.370083Z
+2017-06-13T00:57:57.322332Z
 2624026a4774d1b96c5e59d25d13c7cf
 2012-11-20T02:10:57.046875Z
 100960

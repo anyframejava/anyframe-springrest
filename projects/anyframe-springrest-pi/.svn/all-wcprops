@@ -1,29 +1,29 @@
 K 25
 svn:wc:ra_dav:version-url
-V 120
-/subv/!svn/ver/161074/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi
+V 115
+/subv/!svn/ver/161076/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi
 END
 .classpath
 K 25
 svn:wc:ra_dav:version-url
-V 131
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/.classpath
+V 125
+/subv/!svn/ver/85485/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/.classpath
 END
 .project
 K 25
 svn:wc:ra_dav:version-url
-V 129
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/.project
+V 123
+/subv/!svn/ver/63126/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/.project
 END
 plugin-build.xml
 K 25
 svn:wc:ra_dav:version-url
-V 137
-/subv/!svn/ver/157608/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/plugin-build.xml
+V 132
+/subv/!svn/ver/158172/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/plugin-build.xml
 END
 pom.xml
 K 25
 svn:wc:ra_dav:version-url
-V 128
-/subv/!svn/ver/161074/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/pom.xml
+V 123
+/subv/!svn/ver/161076/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/pom.xml
 END

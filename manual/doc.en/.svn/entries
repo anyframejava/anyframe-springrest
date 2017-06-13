@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc.en
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/manual/doc.en
 http://dev.anyframejava.org/subv
 
 
 
-2014-03-27T14:00:05.936718Z
-160086
-joonbo.jang
+2015-06-26T03:06:54.028213Z
+197511
+sds.han
 
 
 
@@ -32,8 +32,8 @@ file
 
 
 
-2017-06-13T00:39:32.398094Z
-9192c111fca31fced009b64185afeed4
+2017-06-13T00:58:03.866707Z
+531ab9c13ce58cfdc21372ff6a38e884
 2014-03-27T14:00:05.936718Z
 160086
 joonbo.jang
@@ -58,7 +58,7 @@ joonbo.jang
 
 
 
-6770
+6788
 
 springrest
 dir

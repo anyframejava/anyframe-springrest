@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 139
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/resources
+V 134
+/subv/!svn/ver/121147/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/resources
 END
 context.properties
 K 25
 svn:wc:ra_dav:version-url
-V 158
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/resources/context.properties
+V 152
+/subv/!svn/ver/74155/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/resources/context.properties
 END
 log4j.xml
 K 25
 svn:wc:ra_dav:version-url
-V 149
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/resources/log4j.xml
+V 143
+/subv/!svn/ver/88907/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/src/main/resources/log4j.xml
 END

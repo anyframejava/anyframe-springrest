@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 121
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc/springrest/whatisrest
+V 116
+/subv/!svn/ver/117982/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/manual/doc/springrest/whatisrest
 END
 architecture.xml
 K 25
 svn:wc:ra_dav:version-url
-V 138
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc/springrest/whatisrest/architecture.xml
+V 133
+/subv/!svn/ver/117982/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/manual/doc/springrest/whatisrest/architecture.xml
 END
 keyprinciple.xml
 K 25
 svn:wc:ra_dav:version-url
-V 138
-/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc/springrest/whatisrest/keyprinciple.xml
+V 133
+/subv/!svn/ver/117982/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/manual/doc/springrest/whatisrest/keyprinciple.xml
 END

@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/META-INF
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/trunk/plugin/optional/springrest/projects/anyframe-springrest-pi/META-INF
 http://dev.anyframejava.org/subv
 
 
 
-2014-03-12T04:53:07.720610Z
-157608
-sujeong.lee
+2014-03-14T11:09:35.971510Z
+158172
+joonbo.jang
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-06-13T00:39:21.554077Z
-7da77ac0c5b7258479d8ddbdff2a7fea
-2014-03-12T04:53:07.720610Z
-157608
-sujeong.lee
+2017-06-13T00:57:54.105148Z
+a571e75ce450f64ccacefbc3e59e126f
+2014-03-14T11:09:35.971510Z
+158172
+joonbo.jang
 
 
 
@@ -58,7 +58,7 @@ sujeong.lee
 
 
 
-801
+810
 
 plugin-installed.xml
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2017-06-13T00:39:21.554077Z
-6f58d0fef41976f4fd3e3f50ac0af109
-2014-03-12T04:53:07.720610Z
-157608
-sujeong.lee
+2017-06-13T00:57:54.108149Z
+4b7fa8dacdc5e2d337092a4857196a1e
+2014-03-14T11:09:35.971510Z
+158172
+joonbo.jang
 
 
 
@@ -92,5 +92,5 @@ sujeong.lee
 
 
 
-491
+509
 
