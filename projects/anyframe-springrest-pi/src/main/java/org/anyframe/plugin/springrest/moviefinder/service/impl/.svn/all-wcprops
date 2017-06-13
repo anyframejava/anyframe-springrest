@@ -1,35 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
 V 190
-/subv/!svn/ver/128596/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/service/impl
+/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/service/impl
 END
 MovieServiceImpl.java
 K 25
 svn:wc:ra_dav:version-url
 V 212
-/subv/!svn/ver/128596/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/service/impl/MovieServiceImpl.java
+/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/service/impl/MovieServiceImpl.java
 END
 GenreServiceImpl.java
 K 25
 svn:wc:ra_dav:version-url
 V 212
-/subv/!svn/ver/128596/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/service/impl/GenreServiceImpl.java
+/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/service/impl/GenreServiceImpl.java
 END
 MovieDao.java
 K 25
 svn:wc:ra_dav:version-url
 V 204
-/subv/!svn/ver/128596/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/service/impl/MovieDao.java
+/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/service/impl/MovieDao.java
 END
 GenreDao.java
 K 25
 svn:wc:ra_dav:version-url
 V 204
-/subv/!svn/ver/128596/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/service/impl/GenreDao.java
+/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/service/impl/GenreDao.java
 END
 MovieFinderImpl.java
 K 25
 svn:wc:ra_dav:version-url
 V 211
-/subv/!svn/ver/128596/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/service/impl/MovieFinderImpl.java
+/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/springrest/moviefinder/service/impl/MovieFinderImpl.java
 END

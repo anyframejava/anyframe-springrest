@@ -1,53 +1,53 @@
 K 25
 svn:wc:ra_dav:version-url
 V 125
-/subv/!svn/ver/128616/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/manual/doc.en/springrest/restsupport
+/subv/!svn/ver/157611/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc.en/springrest/restsupport
 END
 exceptionhandling.xml
 K 25
 svn:wc:ra_dav:version-url
 V 147
-/subv/!svn/ver/128596/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/manual/doc.en/springrest/restsupport/exceptionhandling.xml
+/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc.en/springrest/restsupport/exceptionhandling.xml
 END
 oxm.xml
 K 25
 svn:wc:ra_dav:version-url
 V 133
-/subv/!svn/ver/128596/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/manual/doc.en/springrest/restsupport/oxm.xml
+/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc.en/springrest/restsupport/oxm.xml
 END
 requestmapping.xml
 K 25
 svn:wc:ra_dav:version-url
 V 144
-/subv/!svn/ver/128616/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/manual/doc.en/springrest/restsupport/requestmapping.xml
+/subv/!svn/ver/157611/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc.en/springrest/restsupport/requestmapping.xml
 END
 httpmethodconversion.xml
 K 25
 svn:wc:ra_dav:version-url
 V 150
-/subv/!svn/ver/128596/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/manual/doc.en/springrest/restsupport/httpmethodconversion.xml
+/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc.en/springrest/restsupport/httpmethodconversion.xml
 END
 httpmessageconversion.xml
 K 25
 svn:wc:ra_dav:version-url
 V 151
-/subv/!svn/ver/128596/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/manual/doc.en/springrest/restsupport/httpmessageconversion.xml
+/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc.en/springrest/restsupport/httpmessageconversion.xml
 END
 views.xml
 K 25
 svn:wc:ra_dav:version-url
 V 135
-/subv/!svn/ver/128616/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/manual/doc.en/springrest/restsupport/views.xml
+/subv/!svn/ver/157611/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc.en/springrest/restsupport/views.xml
 END
 client.xml
 K 25
 svn:wc:ra_dav:version-url
 V 136
-/subv/!svn/ver/128596/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/manual/doc.en/springrest/restsupport/client.xml
+/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc.en/springrest/restsupport/client.xml
 END
 multiplerepresentation.xml
 K 25
 svn:wc:ra_dav:version-url
 V 152
-/subv/!svn/ver/128596/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/manual/doc.en/springrest/restsupport/multiplerepresentation.xml
+/subv/!svn/ver/157604/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.1.0/manual/doc.en/springrest/restsupport/multiplerepresentation.xml
 END
