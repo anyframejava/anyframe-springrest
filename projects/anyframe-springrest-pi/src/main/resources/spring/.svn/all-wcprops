@@ -1,47 +1,47 @@
 K 25
 svn:wc:ra_dav:version-url
-V 145
-/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/spring
+V 146
+/subv/!svn/ver/104029/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/resources/spring
 END
 springrest-servlet.xml
 K 25
 svn:wc:ra_dav:version-url
-V 168
-/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/spring/springrest-servlet.xml
+V 169
+/subv/!svn/ver/104029/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/resources/spring/springrest-servlet.xml
 END
 context-message.xml
 K 25
 svn:wc:ra_dav:version-url
-V 165
-/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/spring/context-message.xml
+V 166
+/subv/!svn/ver/104029/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/resources/spring/context-message.xml
 END
 context-query.xml
 K 25
 svn:wc:ra_dav:version-url
-V 163
-/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/spring/context-query.xml
+V 164
+/subv/!svn/ver/104029/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/resources/spring/context-query.xml
 END
 context-transaction.xml
 K 25
 svn:wc:ra_dav:version-url
-V 169
-/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/spring/context-transaction.xml
+V 170
+/subv/!svn/ver/104029/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/resources/spring/context-transaction.xml
 END
 core-servlet.xml
 K 25
 svn:wc:ra_dav:version-url
-V 162
-/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/spring/core-servlet.xml
+V 163
+/subv/!svn/ver/104029/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/resources/spring/core-servlet.xml
 END
 context-annotation.xml
 K 25
 svn:wc:ra_dav:version-url
-V 168
-/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/spring/context-annotation.xml
+V 169
+/subv/!svn/ver/104029/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/resources/spring/context-annotation.xml
 END
 context-springrest-client.xml
 K 25
 svn:wc:ra_dav:version-url
-V 175
-/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/spring/context-springrest-client.xml
+V 176
+/subv/!svn/ver/104029/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/resources/spring/context-springrest-client.xml
 END
