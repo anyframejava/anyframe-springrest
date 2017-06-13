@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 129
-/subv/!svn/ver/104171/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/META-INF
+V 132
+/subv/!svn/ver/98293/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/projects/anyframe-springrest-pi/META-INF
 END
 project.mf
 K 25
 svn:wc:ra_dav:version-url
-V 140
-/subv/!svn/ver/104171/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/META-INF/project.mf
+V 143
+/subv/!svn/ver/98293/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/projects/anyframe-springrest-pi/META-INF/project.mf
 END
 plugin-installed.xml
 K 25
 svn:wc:ra_dav:version-url
-V 150
-/subv/!svn/ver/104171/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/META-INF/plugin-installed.xml
+V 153
+/subv/!svn/ver/98293/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/projects/anyframe-springrest-pi/META-INF/plugin-installed.xml
 END

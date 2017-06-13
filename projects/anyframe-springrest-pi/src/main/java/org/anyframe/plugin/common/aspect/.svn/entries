@@ -2,13 +2,13 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/common/aspect
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/common/aspect
 http://dev.anyframejava.org/subv
 
 
 
-2012-12-03T23:58:35.437500Z
-102656
+2012-09-07T04:54:23.234375Z
+95124
 jongpil.park
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2017-06-13T00:38:19.926985Z
-21eaa37cd2eacf7fa9abc2d659ae7d3a
-2012-11-21T07:33:06.140625Z
-101194
+2017-06-13T00:38:53.817036Z
+dbf0af347fcdbbbdea24030f984b0b58
+2012-09-07T04:54:23.234375Z
+95124
 jongpil.park
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-2805
+3214
 
 LoggingAspect.java
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2017-06-13T00:38:19.931985Z
-927171e479a2062ecfaa942dbbe854b5
-2012-12-03T23:58:35.437500Z
-102656
-jongpil.park
+2017-06-13T00:38:53.822036Z
+de6b903cbb5e5d8a70de9586370bb2f8
+2012-05-16T08:55:55.265625Z
+88321
+jaehyoung.eum
 has-props
 
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-2566
+2428
 

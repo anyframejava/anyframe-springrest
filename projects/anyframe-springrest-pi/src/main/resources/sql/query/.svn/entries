@@ -2,7 +2,7 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/resources/sql/query
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/projects/anyframe-springrest-pi/src/main/resources/sql/query
 http://dev.anyframejava.org/subv
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2017-06-13T00:38:20.121985Z
+2017-06-13T00:38:54.027036Z
 5385486aba0aa185ba63bdd161f0a31f
 2011-05-19T07:55:42.966375Z
 64628
@@ -66,7 +66,7 @@ file
 
 
 
-2017-06-13T00:38:20.126985Z
+2017-06-13T00:38:54.032036Z
 fe62403dca44e6adbedb22eba0459d72
 2011-05-19T07:55:42.966375Z
 64628

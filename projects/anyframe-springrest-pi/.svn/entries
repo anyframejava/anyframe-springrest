@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/projects/anyframe-springrest-pi
 http://dev.anyframejava.org/subv
 
 
 
-2012-12-17T04:50:14.421875Z
-104171
-jongpil.park
+2012-10-19T04:58:30.390625Z
+98293
+soyon.lim
 has-props
 
 
@@ -35,7 +35,7 @@ file
 
 
 
-2017-06-13T00:38:22.421988Z
+2017-06-13T00:38:56.537039Z
 5dff7823af3cbe1c657d5cc35464c905
 2012-04-04T11:21:25.937500Z
 85485
@@ -69,7 +69,7 @@ file
 
 
 
-2017-06-13T00:38:22.421988Z
+2017-06-13T00:38:56.542039Z
 a25c909fd0c1f014d410cc7e3ad2dfde
 2011-03-17T08:33:57.951697Z
 58686
@@ -109,11 +109,11 @@ file
 
 
 
-2017-06-13T00:38:22.426988Z
-94e7f2d7f515e344e4f5664d6aa536b0
-2012-12-17T04:50:14.421875Z
-104171
-jongpil.park
+2017-06-13T00:38:56.547039Z
+a1b9d9f363d4fb712e47096b374a5ae1
+2012-10-19T04:58:30.390625Z
+98293
+soyon.lim
 
 
 
@@ -135,7 +135,7 @@ jongpil.park
 
 
 
-1555
+1559
 
 pom.xml
 file
@@ -143,11 +143,11 @@ file
 
 
 
-2017-06-13T00:38:22.426988Z
-838a052bbce1f4c4a57f7c8a9f2ec22f
-2012-12-17T04:50:14.421875Z
-104171
-jongpil.park
+2017-06-13T00:38:56.547039Z
+a97ef50ff623ef4224fe334413604a6b
+2012-10-19T04:58:30.390625Z
+98293
+soyon.lim
 
 
 
@@ -169,7 +169,7 @@ jongpil.park
 
 
 
-13665
+13582
 
 .settings
 dir

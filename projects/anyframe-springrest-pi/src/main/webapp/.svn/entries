@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/webapp
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/projects/anyframe-springrest-pi/src/main/webapp
 http://dev.anyframejava.org/subv
 
 
 
-2012-12-17T04:50:14.421875Z
-104171
-jongpil.park
+2012-10-19T04:58:30.390625Z
+98293
+soyon.lim
 
 
 
@@ -38,11 +38,11 @@ file
 
 
 
-2017-06-13T00:38:22.006988Z
-7edbc77243f0e330e10531b1079d1a97
-2012-12-17T04:50:14.421875Z
-104171
-jongpil.park
+2017-06-13T00:38:56.132039Z
+3df2a194dcd204477043d986211dfc16
+2012-10-19T04:58:30.390625Z
+98293
+soyon.lim
 
 
 
@@ -64,5 +64,5 @@ jongpil.park
 
 
 
-2251
+2264
 

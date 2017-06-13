@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/manual/doc.en
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/manual/doc.en
 http://dev.anyframejava.org/subv
 
 
 
-2013-04-05T05:52:15.296875Z
-117948
-jongpil.park
+2012-10-19T04:58:30.390625Z
+98293
+soyon.lim
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-06-13T00:38:25.161992Z
-bc7c50f9695b35fadce5dfcd326db73a
-2013-04-05T05:52:15.296875Z
-117948
-jongpil.park
+2017-06-13T00:38:59.157043Z
+d599529305f1927db5adb738387af9ed
+2012-10-19T04:58:30.390625Z
+98293
+soyon.lim
 
 
 
@@ -58,7 +58,7 @@ jongpil.park
 
 
 
-6767
+6838
 
 springrest
 dir

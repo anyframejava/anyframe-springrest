@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 144
-/subv/!svn/ver/104171/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/webapp/WEB-INF
+V 147
+/subv/!svn/ver/98293/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/projects/anyframe-springrest-pi/src/main/webapp/WEB-INF
 END
 web.xml
 K 25
 svn:wc:ra_dav:version-url
-V 152
-/subv/!svn/ver/104029/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/projects/anyframe-springrest-pi/src/main/webapp/WEB-INF/web.xml
+V 155
+/subv/!svn/ver/98214/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/projects/anyframe-springrest-pi/src/main/webapp/WEB-INF/web.xml
 END

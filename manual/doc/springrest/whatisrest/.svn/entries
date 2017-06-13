@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3/manual/doc/springrest/whatisrest
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/manual/doc/springrest/whatisrest
 http://dev.anyframejava.org/subv
 
 
 
-2013-04-05T05:52:15.296875Z
-117948
-jongpil.park
+2010-12-03T04:20:00.300685Z
+50099
+jeryeon.kim
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-06-13T00:38:24.366991Z
-8b95ef9888fb8f24adde5ba7750eceae
-2013-04-05T05:52:15.296875Z
-117948
-jongpil.park
+2017-06-13T00:38:58.397042Z
+825059dafa1d331c8c01aeecbdc67004
+2010-12-03T04:20:00.300685Z
+50099
+jeryeon.kim
 
 
 
@@ -58,7 +58,7 @@ jongpil.park
 
 
 
-2423
+2230
 
 keyprinciple.xml
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2017-06-13T00:38:24.371991Z
-825ef26b69969ceddb3fce90233f8404
-2013-04-05T05:52:15.296875Z
-117948
-jongpil.park
+2017-06-13T00:38:58.402042Z
+da98c21b8cd804efad1d8a0ae66d2ce9
+2010-12-03T04:20:00.300685Z
+50099
+jeryeon.kim
 
 
 
@@ -92,5 +92,5 @@ jongpil.park
 
 
 
-8914
+8486
 
