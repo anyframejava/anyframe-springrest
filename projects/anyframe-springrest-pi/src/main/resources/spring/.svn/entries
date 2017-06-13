@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/projects/anyframe-springrest-pi/src/main/resources/spring
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/projects/anyframe-springrest-pi/src/main/resources/spring
 http://dev.anyframejava.org/subv
 
 
 
-2012-05-16T09:02:15.406250Z
-88334
-jaehyoung.eum
+2013-05-02T05:54:16.828125Z
+121147
+jongpil.park
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-06-13T00:38:54.327036Z
-e718ac727319b66aaa0558fa92243822
-2012-04-04T11:16:11.093750Z
-85460
-jaehyoung.eum
+2017-06-13T00:38:39.997015Z
+250421bad25412ef5db6bb46db11325e
+2013-05-02T05:54:16.828125Z
+121147
+jongpil.park
 
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2017-06-13T00:38:54.332036Z
-e1487189890c6169bee3f7d4ea6e10e7
-2012-04-04T11:16:11.093750Z
-85460
-jaehyoung.eum
+2017-06-13T00:38:40.002015Z
+cab042e5b4d1488b3757680981e24f7c
+2013-05-02T05:54:16.828125Z
+121147
+jongpil.park
 has-props
 
 
@@ -100,11 +100,11 @@ file
 
 
 
-2017-06-13T00:38:54.337036Z
-5dc2b44049edb0213f041c32ada3bf16
-2012-05-03T23:16:01.734375Z
-87463
-youngmin.jo
+2017-06-13T00:38:40.007015Z
+5c5aa7f884190b6009c227c203da9e24
+2013-05-02T05:54:16.828125Z
+121147
+jongpil.park
 
 
 
@@ -134,11 +134,11 @@ file
 
 
 
-2017-06-13T00:38:54.347036Z
-23358e325e4c7652ea17aa520d491f80
-2012-05-16T09:02:15.406250Z
-88334
-jaehyoung.eum
+2017-06-13T00:38:40.012015Z
+a60513415327cee759a1d6b4e9afebf2
+2013-05-02T05:54:16.828125Z
+121147
+jongpil.park
 has-props
 
 
@@ -168,11 +168,11 @@ file
 
 
 
-2017-06-13T00:38:54.352036Z
-3460d6d59b1a28a7bd8df610329f91c2
-2012-04-05T06:46:32.234375Z
-85550
-jaehyoung.eum
+2017-06-13T00:38:40.017015Z
+ae7e09443de2bdb8dd0b71d925624a06
+2013-05-02T05:54:16.828125Z
+121147
+jongpil.park
 has-props
 
 
@@ -202,11 +202,11 @@ file
 
 
 
-2017-06-13T00:38:54.357036Z
-485a990f922a65a4bbfccf45ce353cfc
-2012-04-04T11:16:11.093750Z
-85460
-jaehyoung.eum
+2017-06-13T00:38:40.022015Z
+6b03829bdb51b3b0f770c890451a895d
+2013-05-02T05:54:16.828125Z
+121147
+jongpil.park
 has-props
 
 
@@ -236,7 +236,7 @@ file
 
 
 
-2017-06-13T00:38:54.362036Z
+2017-06-13T00:38:40.027015Z
 055367041d3c739dc1e25fdf40bc4d59
 2011-03-18T05:12:39.813672Z
 58756

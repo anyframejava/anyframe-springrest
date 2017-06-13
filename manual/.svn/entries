@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.3.RC1/manual
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.4/manual
 http://dev.anyframejava.org/subv
 
 
 
-2012-10-19T04:58:30.390625Z
-98293
-soyon.lim
+2013-07-08T13:52:22.828125Z
+128616
+jel.lee
 has-props
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-06-13T00:38:59.697044Z
-5b7cf8525a4c906a179a3319e726052e
-2012-10-19T04:58:30.390625Z
-98293
-soyon.lim
+2017-06-13T00:38:45.602023Z
+4ccd5faf64013a02f1c8480946ac156b
+2013-07-08T13:52:22.828125Z
+128616
+jel.lee
 
 
 
@@ -58,7 +58,7 @@ soyon.lim
 
 
 
-6459
+6455
 
 image
 dir
@@ -69,7 +69,7 @@ file
 
 
 
-2017-06-13T00:38:59.702044Z
+2017-06-13T00:38:45.607023Z
 f4319f60d91dff5768705d8092e080bc
 2012-04-17T01:27:20.171875Z
 86416
@@ -112,11 +112,11 @@ file
 
 
 
-2017-06-13T00:38:59.707044Z
-a0403c7a5b1d171d10b422c78a6b70df
-2012-10-19T04:58:30.390625Z
-98293
-soyon.lim
+2017-06-13T00:38:45.612023Z
+c9b8d17b154186f785e7881b00189b91
+2013-07-08T13:52:22.828125Z
+128616
+jel.lee
 
 
 
@@ -138,5 +138,5 @@ soyon.lim
 
 
 
-8878
+8874
 
