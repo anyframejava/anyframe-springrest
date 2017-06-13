@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/resources/spring
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/resources/spring
 http://dev.anyframejava.org/subv
 
 
 
-2011-03-18T05:12:39.813672Z
-58756
-jeryeon.kim
+2011-10-11T01:18:24.000000Z
+75287
+heewon.jung
 
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2017-06-13T00:38:28.866997Z
+2017-06-13T00:39:11.639063Z
 c58c5aa02b797e4752779f420b755376
 2011-03-18T05:12:31.953894Z
 58755
@@ -66,11 +66,12 @@ file
 
 
 
-2017-06-13T00:38:28.871997Z
-10c6b0d1a9270aa189c1b2b49ec6c73a
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2017-06-13T00:39:11.644063Z
+597931ff773c8c0dcc313d4fdc9a9462
+2011-10-11T01:18:24.000000Z
+75287
+heewon.jung
+has-props
 
 
 
@@ -91,8 +92,7 @@ jeryeon.kim
 
 
 
-
-1268
+698
 
 context-query.xml
 file
@@ -100,11 +100,11 @@ file
 
 
 
-2017-06-13T00:38:28.871997Z
-2fc49412d4d5d889bbe84b3ccfd7593a
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2017-06-13T00:39:11.649063Z
+653ef0d60221786098ae548574c0027a
+2011-05-19T07:49:57.935125Z
+64627
+soyon.lim
 
 
 
@@ -126,7 +126,7 @@ jeryeon.kim
 
 
 
-1851
+561
 
 context-transaction.xml
 file
@@ -134,11 +134,12 @@ file
 
 
 
-2017-06-13T00:38:28.876997Z
-f2e4c70c93f9e0be54355b7eac719d75
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2017-06-13T00:39:11.654063Z
+99e5d6c6cdccfa8a4ad5b6c5118b7342
+2011-10-04T01:36:59.453125Z
+74155
+heewon.jung
+has-props
 
 
 
@@ -159,8 +160,7 @@ jeryeon.kim
 
 
 
-
-2267
+2432
 
 core-servlet.xml
 file
@@ -168,11 +168,12 @@ file
 
 
 
-2017-06-13T00:38:28.881997Z
-e17a65ebd466b80d259dffaa6c6d5c3c
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2017-06-13T00:39:11.659063Z
+2ba44281c367f80aa4ca1492a919ce4c
+2011-10-04T01:36:59.453125Z
+74155
+heewon.jung
+has-props
 
 
 
@@ -193,8 +194,7 @@ jeryeon.kim
 
 
 
-
-1877
+1862
 
 context-annotation.xml
 file
@@ -202,12 +202,12 @@ file
 
 
 
-2017-06-13T00:38:28.886997Z
+2017-06-13T00:39:11.669063Z
 e1d39780dc23b45c9a4450daaa3d9720
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
-
+2011-10-04T01:36:59.453125Z
+74155
+heewon.jung
+has-props
 
 
 
@@ -236,7 +236,7 @@ file
 
 
 
-2017-06-13T00:38:28.886997Z
+2017-06-13T00:39:11.669063Z
 055367041d3c739dc1e25fdf40bc4d59
 2011-03-18T05:12:39.813672Z
 58756

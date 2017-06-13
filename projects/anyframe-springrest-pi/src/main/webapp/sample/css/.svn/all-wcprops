@@ -1,23 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 150
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/webapp/sample/css
+V 146
+/subv/!svn/ver/75877/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/webapp/sample/css
 END
-admin.css
+common.css
 K 25
 svn:wc:ra_dav:version-url
-V 160
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/webapp/sample/css/admin.css
+V 157
+/subv/!svn/ver/75877/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/webapp/sample/css/common.css
 END
-left.css
+layout.css
 K 25
 svn:wc:ra_dav:version-url
-V 159
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/webapp/sample/css/left.css
-END
-tundra-customized.css
-K 25
-svn:wc:ra_dav:version-url
-V 172
-/subv/!svn/ver/63126/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/webapp/sample/css/tundra-customized.css
+V 157
+/subv/!svn/ver/75297/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/webapp/sample/css/layout.css
 END

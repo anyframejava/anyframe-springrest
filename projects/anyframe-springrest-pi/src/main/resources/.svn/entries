@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/resources
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/resources
 http://dev.anyframejava.org/subv
 
 
 
-2011-03-21T05:10:28.642738Z
-58934
-jeryeon.kim
+2011-10-11T01:24:45.546875Z
+75297
+heewon.jung
 
 
 
@@ -35,11 +35,12 @@ file
 
 
 
-2017-06-13T00:38:28.991998Z
-47a3ed2f8104ce0f8717ab1f6906741f
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2017-06-13T00:39:11.984063Z
+06fc1e518d2cd45ca5d1458d49e4f65c
+2011-10-04T01:36:59.453125Z
+74155
+heewon.jung
+has-props
 
 
 
@@ -60,8 +61,7 @@ jeryeon.kim
 
 
 
-
-116
+216
 
 spring
 dir
@@ -75,11 +75,11 @@ file
 
 
 
-2017-06-13T00:38:28.996998Z
-1c30cde5c69450ab086575f2eda323bd
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2017-06-13T00:39:11.989063Z
+7cf522a7ecbf9ad194293a00fd2150c4
+2011-10-11T01:24:45.546875Z
+75297
+heewon.jung
 
 
 
@@ -101,5 +101,5 @@ jeryeon.kim
 
 
 
-1752
+2500
 

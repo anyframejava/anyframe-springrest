@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/common/aspect
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/common/aspect
 http://dev.anyframejava.org/subv
 
 
 
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2011-10-04T01:37:11.062500Z
+74156
+heewon.jung
 
 
 
@@ -32,11 +32,12 @@ file
 
 
 
-2017-06-13T00:38:28.521997Z
-306e196fe4ea241bd74039bf01852660
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2017-06-13T00:39:11.279062Z
+3a77b37e5de78f4ba8a527617b4edd23
+2011-10-04T01:37:11.062500Z
+74156
+heewon.jung
+has-props
 
 
 
@@ -57,8 +58,7 @@ jeryeon.kim
 
 
 
-
-3144
+3096
 
 LoggingAspect.java
 file
@@ -66,11 +66,12 @@ file
 
 
 
-2017-06-13T00:38:28.526997Z
-495089a388983a3d0c318effe989bf2d
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2017-06-13T00:39:11.284062Z
+e04f4b10ca353b3665659b80decbe764
+2011-10-04T01:37:11.062500Z
+74156
+heewon.jung
+has-props
 
 
 
@@ -91,6 +92,5 @@ jeryeon.kim
 
 
 
-
-2620
+2626
 

@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.0.RC1/projects/anyframe-springrest-pi/src/main/resources/message
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/resources/message
 http://dev.anyframejava.org/subv
 
 
 
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2011-10-11T01:18:24.000000Z
+75287
+heewon.jung
 
 
 
@@ -32,12 +32,12 @@ file
 
 
 
-2017-06-13T00:38:28.961997Z
+2017-06-13T00:39:11.934063Z
 886a52964602cbad0d318ed75fbec9b5
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
-
+2011-10-04T01:36:59.453125Z
+74155
+heewon.jung
+has-props
 
 
 
@@ -66,11 +66,12 @@ file
 
 
 
-2017-06-13T00:38:28.966997Z
-79fb7d6e7cd87a228d2dd4eb058addd2
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2017-06-13T00:39:11.939063Z
+2bda2dabfa23487aa25dc4156ae9d175
+2011-10-04T01:36:59.453125Z
+74155
+heewon.jung
+has-props
 
 
 
@@ -91,8 +92,41 @@ jeryeon.kim
 
 
 
+6120
+
+message-moviefinder_en.properties
+file
 
-5068
+
+
+
+2017-06-13T00:39:11.944063Z
+2bda2dabfa23487aa25dc4156ae9d175
+2011-10-04T01:36:59.453125Z
+74155
+heewon.jung
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6120
 
 message-generation.properties
 file
@@ -100,11 +134,12 @@ file
 
 
 
-2017-06-13T00:38:28.966997Z
-d41d8cd98f00b204e9800998ecf8427e
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2017-06-13T00:39:11.949063Z
+9a5cd39285126df9a0857799180a65c3
+2011-10-04T01:36:59.453125Z
+74155
+heewon.jung
+has-props
 
 
 
@@ -125,6 +160,39 @@ jeryeon.kim
 
 
 
+49
+
+message-moviefinder_ko.properties
+file
 
-0
+
+
+
+2017-06-13T00:39:11.954063Z
+825457ebc8e053cfd7259963fe5c17d4
+2011-10-04T01:36:59.453125Z
+74155
+heewon.jung
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6703
 
