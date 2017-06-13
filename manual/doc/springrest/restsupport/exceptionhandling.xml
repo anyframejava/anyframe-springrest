@@ -49,7 +49,7 @@ public class MovieController {
 }</programlisting>
 		</para>
 			위의 Annotation을 이용한 Exception 핸들링이 정상적으로 동작하기 위해서는, 
-			반드시 org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerExceptionResolver가 등록되어 있어야만 한다.
+			반드시 org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver가 등록되어 있어야만 한다.
 		<para>
 		</para>
 	</section>
@@ -142,7 +142,7 @@ public class NotFoundException extends BaseException {
 			이 경우 REST 클라이언트에서는 에러가 발생했음에도 불구하고 '200 OK'라는 Response Status와 함께 error 페이지 HTML 내용이 리턴되는 문제가 있다.
 			반대로 REST 클라이언트에게 Error Status Code를 리턴하도록 설정을 바꿀 경우 기존 웹 어플리케이션에서는 에러를 위한 페이지를 사용할 수 없다.
 		</para>
-		<para>이와 같은 경우 AnnotationMethodHandlerExceptionResolver를 컨테이너에 등록하고,
+		<para>이와 같은 경우 ExceptionHandlerExceptionResolver를 컨테이너에 등록하고,
 		 다음과 같이 @ExceptionHandler와 @ResponseStatus를 이용하여 REST 클라이언트와 웹어플리케이션을 동시에 만족시킬 수 있다. <programlisting language="java">@ResponseStatus(value = HttpStatus.NOT_FOUND)
 @ExceptionHandler(NotFoundException.class)
 public ModelAndView handleException(NotFoundException ex) {

@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/common
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/java/org/anyframe/plugin/common
 http://dev.anyframejava.org/subv
 
 
 
-2011-10-04T07:52:43.718750Z
-74293
-heewon.jung
+2012-05-18T07:54:44.250000Z
+88573
+youngmin.jo
 
 
 
@@ -35,11 +35,11 @@ file
 
 
 
-2017-06-13T00:39:11.339062Z
-891d58720cad1eafb26b654ca9142bf3
-2011-03-17T08:33:57.951697Z
-58686
-jeryeon.kim
+2017-06-13T00:39:41.018107Z
+f6edd28f4243e9cac5b012676ce5719b
+2012-04-04T11:19:32.765625Z
+85479
+jaehyoung.eum
 
 
 
@@ -62,38 +62,4 @@ jeryeon.kim
 
 
 4021
-
-MovieFinderExceptionResolver.java
-file
-
-
-
-
-2017-06-13T00:39:11.344062Z
-26ae7a2a599752f9e9653028ec5ed0d6
-2011-10-04T07:52:43.718750Z
-74293
-heewon.jung
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2219
 

@@ -12,6 +12,8 @@
 <!ENTITY springrest_restsupport_client SYSTEM "springrest/restsupport/client.xml">
 <!ENTITY springrest_restsupport_requestmapping SYSTEM "springrest/restsupport/requestmapping.xml">
 <!ENTITY springrest_restsupport_views SYSTEM "springrest/restsupport/views.xml">
+<!ENTITY springrest_restsupport_urisupportutils SYSTEM "springrest/restsupport/urisupportutils.xml">
+<!ENTITY springrest_restsupport_redirection SYSTEM "springrest/restsupport/redirection.xml">
 ]
 >
 
@@ -36,10 +38,10 @@
 	
 	<bookinfo>
 		<copyright>
-			<year>2007-2011</year>
+			<year>2007-2012</year>
 			<holder>삼성SDS</holder>
 		</copyright>
-		<releaseinfo>Version 1.0.1</releaseinfo>
+		<releaseinfo>Version 1.0.2</releaseinfo>
 
 		<productname>Anyframe Spring REST Plugin</productname>
 
@@ -93,7 +95,7 @@
 						<row>
 							<entry align="center">
 								<ulink
-									url="http://dev.anyframejava.org/docs/anyframe/plugin/optional/query/1.1.2-SNAPSHOT/reference/htmlsingle/query.html">Query</ulink>
+									url="http://dev.anyframejava.org/docs/anyframe/plugin/optional/query/1.1.3/reference/htmlsingle/query.html">Query</ulink>
 							</entry>
 							<entry align="center" valign="middle">2.0.0 > *</entry>
 						</row>
@@ -135,6 +137,8 @@
 			</para>
 		</partintro>
 		&springrest_restsupport_requestmapping;
+		&springrest_restsupport_urisupportutils;
+		&springrest_restsupport_redirection;
 		&springrest_restsupport_multiplerepresentation;
 		&springrest_restsupport_views;
 		&springrest_restsupport_exceptionhandling;

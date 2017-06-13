@@ -1,6 +1,6 @@
 <%@ page language="java" errorPage="/sample/common/error.jsp" pageEncoding="UTF-8" contentType="text/html;charset=utf-8" %>
 <%@ include file="/sample/common/top.jsp"%>
-		<div class="location"><a href="<c:url value='/anyframe.jsp'/>">Home</a> &gt; <a href="<c:url value='/springrest/movies.html'/>">Spring REST 1.0.1</a></div>
+		<div class="location"><a href="<c:url value='/anyframe.jsp'/>">Home</a> &gt; <a href="<c:url value='/springrest/movies.html'/>">Spring REST 1.0.2</a></div>
     </div>
     <hr />
 <script type="text/javascript" src="<c:url value='/sample/javascript/InputCalendar.js'/>"></script>
@@ -83,12 +83,11 @@
                     <tr>
                     	<th><label for="releaseDate"><spring:message code="movie.releaseDate" /></label></th>
                         <td>
-                        <span class="float_left margin_right5"><form:input path="releaseDate" cssClass="w_date"  maxlength="10" /></span>
-                        <label for="calendar" class="float_left">
-                        <a href="javascript:popUpCalendar(document.movieForm.releaseDate, 'yyyy-mm-dd');">
+                        <form:input path="releaseDate" cssClass="w_date"  maxlength="10" />
+                        <a class="underline_none" href="javascript:popUpCalendar(document.movieForm.releaseDate, '-');">
                         	<img id="calendar" src="<c:url value='/sample/images/btn_calendar_i.gif'/>" alt="Calendar" />
-                        </a>	
-                        </label></td>
+                        </a>
+                        <form:errors path="releaseDate" cssClass="errors" /></td>
                     </tr>
                     <tr>
                     	<th><label for="ticketPrice"><spring:message code="movie.ticketPrice" /></label></th>
@@ -97,40 +96,51 @@
                     <tr>
                     	<th><label for="nowPlaying"><spring:message code="movie.nowPlaying" /></label></th>
                         <td><span class="float_left"><spring:message code="movie.isNowPlaying" /></span>
-                        <span class="float_left margin_left5"><form:checkbox id="nowPlaying" path="nowPlaying" value="Y" /></span></td>
+                        <span class="float_left margin_left5"><form:checkbox id="nowPlaying" path="nowPlaying" value="Y" /></span>
+                        <input type="hidden" name="!nowPlaying" value="N" /></td>
                     </tr>
                 </tbody>
             </table>
             </form:form>
         </div><!-- // list E -->
         <div class="btncontainer_center">
-        <span class="button default icon">
-            <span class="list"></span>
-            <a href="<c:url value='/springrest/movies.html'/>"><spring:message code="movie.button.list" /></a>
-        </span>
-        <c:if test="${empty movie.movieId}">
-	        <span class="button default icon">
-	            <span class="add"></span>
-	            <a href="javascript:fncSubmit('post');"><spring:message code="movie.button.add" /></a>
-	        </span>
-        </c:if>
-        <c:if test="${not empty movie.movieId}">
-        	<span class="button default icon">
-	            <span class="update"></span>
-	            <a href="javascript:fncSubmit('put');"><spring:message code="movie.button.update" /></a>
-	        </span>
-	         <span class="button default icon">
-                <span class="delete">&nbsp;</span>
-                <a href="javascript:fncSubmit('delete');">Delete</a>
-            </span>
-            <spring:url value="/springrest/movies/{id}.xml" var="movieUrl" htmlEscape="true" >
-				<spring:param name="id" value="${movie.movieId}" />
-			</spring:url>
-            <span class="button default icon">
-                <span class="view">&nbsp;</span>
-                <a href="${movieUrl}">View as XML</a>
-            </span>
-        </c:if>
+		    <a href="<c:url value='/springrest/movies.html'/>">
+		    <span class="button default icon">
+		        <span class="list">&nbsp;</span>
+		        <span class="none_a txt_num4"><spring:message code="movie.button.list" /></span>
+		    </span>
+		    </a>         
+	        <c:if test="${empty movie.movieId}">
+			    <a href="javascript:fncSubmit('post');">
+			    <span class="button default icon">
+			        <span class="add">&nbsp;</span>
+			        <span class="none_a txt_num3"><spring:message code="movie.button.add" /></span>
+			    </span>
+			    </a> 	        
+	        </c:if>
+	        <c:if test="${not empty movie.movieId}">
+			    <a href="javascript:fncSubmit('put');">
+			    <span class="button default icon">
+			        <span class="update">&nbsp;</span>
+			        <span class="none_a txt_num6"><spring:message code="movie.button.update" /></span>
+			    </span>
+			    </a> 
+			    <a href="javascript:fncSubmit('delete');">
+			    <span class="button default icon">
+			        <span class="delete">&nbsp;</span>
+			        <span class="none_a txt_num6"><spring:message code="movie.button.remove" /></span>
+			    </span>
+			    </a> 	        
+	            <spring:url value="/springrest/movies/{id}.xml" var="movieUrl" htmlEscape="true" >
+					<spring:param name="id" value="${movie.movieId}" />
+				</spring:url>
+			    <a href="${movieUrl}">
+			    <span class="button default icon">
+			        <span class="view">&nbsp;</span>
+			        <span class="none_a txt_num10">View as XML</span>
+			    </span>
+			    </a> 				
+	        </c:if>
     	</div>
 	</div>
     <hr />

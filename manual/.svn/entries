@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/manual
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/manual
 http://dev.anyframejava.org/subv
 
 
 
-2011-10-11T04:39:31.281250Z
-75368
-heewon.jung
+2012-05-30T01:56:57.171875Z
+89720
+jaehyoung.eum
 has-props
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-06-13T00:39:16.174069Z
-184dfb287e88b179cc6d1d417b5effc2
-2011-08-04T07:36:58.281250Z
-70455
-sujeong.lee
+2017-06-13T00:39:46.788115Z
+3bc50920632883283207a31e6ff356c5
+2012-05-30T01:56:57.171875Z
+89720
+jaehyoung.eum
 
 
 
@@ -69,11 +69,11 @@ file
 
 
 
-2017-06-13T00:39:16.184069Z
-d0b8429bd25440f7342e579b83a3bd87
-2010-11-26T08:42:59.638785Z
-49379
-jeryeon.kim
+2017-06-13T00:39:46.798115Z
+f4319f60d91dff5768705d8092e080bc
+2012-04-17T01:27:20.171875Z
+86416
+jaehyoung.eum
 
 
 
@@ -95,7 +95,7 @@ jeryeon.kim
 
 
 
-226
+230
 
 doc
 dir
@@ -112,11 +112,11 @@ file
 
 
 
-2017-06-13T00:39:16.189069Z
-84ff2ce0a0b1fc8a5f5525abd058369b
-2011-10-11T04:39:31.281250Z
-75368
-heewon.jung
+2017-06-13T00:39:46.803115Z
+98adfc3a1f2e87ee00a54b8ab5c86e7b
+2012-05-30T01:56:57.171875Z
+89720
+jaehyoung.eum
 
 
 
@@ -138,5 +138,5 @@ heewon.jung
 
 
 
-6320
+8874
 

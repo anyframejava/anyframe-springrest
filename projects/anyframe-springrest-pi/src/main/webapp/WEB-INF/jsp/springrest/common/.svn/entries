@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/webapp/WEB-INF/jsp/springrest/common
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/webapp/WEB-INF/jsp/springrest/common
 http://dev.anyframejava.org/subv
 
 
 
-2011-10-19T01:09:25.343750Z
-75940
-sujeong.lee
+2012-04-05T04:34:19.375000Z
+85519
+jaehyoung.eum
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-06-13T00:39:13.294065Z
-bfab6db5b32401a9b2b934f4a8a8ad3a
-2011-10-19T01:09:25.343750Z
-75940
-sujeong.lee
+2017-06-13T00:39:43.133110Z
+5236f6b3113f120658ad7bfa25f26e7b
+2012-04-05T04:34:19.375000Z
+85519
+jaehyoung.eum
 
 
 
@@ -58,5 +58,5 @@ sujeong.lee
 
 
 
-783
+749
 

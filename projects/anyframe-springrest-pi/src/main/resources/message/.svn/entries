@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/resources/message
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/message
 http://dev.anyframejava.org/subv
 
 
 
-2011-10-11T01:18:24.000000Z
-75287
-heewon.jung
+2012-05-23T04:55:04.359375Z
+88907
+youngmin.jo
 
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2017-06-13T00:39:11.934063Z
+2017-06-13T00:39:41.528108Z
 886a52964602cbad0d318ed75fbec9b5
 2011-10-04T01:36:59.453125Z
 74155
@@ -66,11 +66,11 @@ file
 
 
 
-2017-06-13T00:39:11.939063Z
-2bda2dabfa23487aa25dc4156ae9d175
-2011-10-04T01:36:59.453125Z
-74155
-heewon.jung
+2017-06-13T00:39:41.533108Z
+0eb94689d47e635b4ab65b2afa0d9192
+2012-05-23T04:55:04.359375Z
+88907
+youngmin.jo
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-6120
+4818
 
 message-moviefinder_en.properties
 file
@@ -100,11 +100,11 @@ file
 
 
 
-2017-06-13T00:39:11.944063Z
-2bda2dabfa23487aa25dc4156ae9d175
-2011-10-04T01:36:59.453125Z
-74155
-heewon.jung
+2017-06-13T00:39:41.538108Z
+0eb94689d47e635b4ab65b2afa0d9192
+2012-05-23T04:55:04.359375Z
+88907
+youngmin.jo
 has-props
 
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-6120
+4818
 
 message-generation.properties
 file
@@ -134,7 +134,7 @@ file
 
 
 
-2017-06-13T00:39:11.949063Z
+2017-06-13T00:39:41.543108Z
 9a5cd39285126df9a0857799180a65c3
 2011-10-04T01:36:59.453125Z
 74155
@@ -168,11 +168,11 @@ file
 
 
 
-2017-06-13T00:39:11.954063Z
-825457ebc8e053cfd7259963fe5c17d4
-2011-10-04T01:36:59.453125Z
-74155
-heewon.jung
+2017-06-13T00:39:41.548108Z
+14f5bd65202d25fec1676ea8046ebbde
+2012-05-23T04:55:04.359375Z
+88907
+youngmin.jo
 has-props
 
 
@@ -194,5 +194,5 @@ has-props
 
 
 
-6703
+5122
 

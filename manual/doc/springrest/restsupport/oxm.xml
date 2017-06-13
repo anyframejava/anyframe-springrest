@@ -83,9 +83,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:oxm="http://www.springframework.org/schema/oxm"
     xsi:schemaLocation="http://www.springframework.org/schema/beans
-    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+    http://www.springframework.org/schema/beans/spring-beans-3.1.xsd
     http://www.springframework.org/schema/oxm
-    http://www.springframework.org/schema/oxm/spring-oxm-3.0.xsd">]]></programlisting>
+    http://www.springframework.org/schema/oxm/spring-oxm-3.1.xsd">]]></programlisting>
    		<para>
    			현재 제공하고 있는 태그들은 다음과 같다.
    			<itemizedlist>

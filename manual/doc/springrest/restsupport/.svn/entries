@@ -2,14 +2,14 @@
 
 dir
 208825
-http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/manual/doc/springrest/restsupport
+http://dev.anyframejava.org/subv/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/manual/doc/springrest/restsupport
 http://dev.anyframejava.org/subv
 
 
 
-2011-10-11T04:39:31.281250Z
-75368
-heewon.jung
+2012-05-30T01:56:57.171875Z
+89720
+jaehyoung.eum
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-06-13T00:39:15.149068Z
-050de4f4ad83810625353047c57de1f0
-2011-04-25T06:52:21.327617Z
-62404
-jonghoon.kim
+2017-06-13T00:39:45.828114Z
+d5a39eb9ee064a982e8ce54c8a72598f
+2012-05-10T07:41:07.390625Z
+87983
+youngmin.jo
 
 
 
@@ -58,7 +58,7 @@ jonghoon.kim
 
 
 
-8045
+8038
 
 oxm.xml
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2017-06-13T00:39:15.154068Z
-2eedbcb02fec7ef7a6c9e63fe1e7c3e2
-2010-12-03T04:20:00.300685Z
-50099
-jeryeon.kim
+2017-06-13T00:39:45.833114Z
+f0c02404e1a1e9e06d06e167dd1621e0
+2012-04-04T10:51:29.796875Z
+85408
+jaehyoung.eum
 
 
 
@@ -100,11 +100,11 @@ file
 
 
 
-2017-06-13T00:39:15.159068Z
-9f3d851fc22a54e5439dee1ec43404fd
-2011-10-11T04:39:31.281250Z
-75368
-heewon.jung
+2017-06-13T00:39:45.838114Z
+be256682d25ba99fa21b26cd3155629e
+2012-05-30T01:56:57.171875Z
+89720
+jaehyoung.eum
 
 
 
@@ -126,7 +126,7 @@ heewon.jung
 
 
 
-5973
+5976
 
 httpmethodconversion.xml
 file
@@ -134,7 +134,7 @@ file
 
 
 
-2017-06-13T00:39:15.164068Z
+2017-06-13T00:39:45.838114Z
 c1b4ab437ee2595b622d8de33d65b2b3
 2010-12-03T04:20:00.300685Z
 50099
@@ -162,13 +162,47 @@ jeryeon.kim
 
 4137
 
+redirection.xml
+file
+
+
+
+
+2017-06-13T00:39:45.843114Z
+4f4e0493886cb6b91d6a2c9a30df0c72
+2012-05-10T07:41:07.390625Z
+87983
+youngmin.jo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4155
+
 httpmessageconversion.xml
 file
 
 
 
 
-2017-06-13T00:39:15.164068Z
+2017-06-13T00:39:45.848114Z
 a1a2fa7a04d59104c652514f3c4227e4
 2010-12-03T04:20:00.300685Z
 50099
@@ -196,17 +230,51 @@ jeryeon.kim
 
 4082
 
+urisupportutils.xml
+file
+
+
+
+
+2017-06-13T00:39:45.848114Z
+73812d00ead114daa307cdebbef035b2
+2012-05-17T01:06:27.750000Z
+88373
+youngmin.jo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2579
+
 views.xml
 file
 
 
 
 
-2017-06-13T00:39:15.169068Z
-3f30b1423822f7c819f71eab248f23a0
-2011-10-11T04:39:31.281250Z
-75368
-heewon.jung
+2017-06-13T00:39:45.853114Z
+3a70039d7d5b0403201d52ab6272b8a1
+2012-05-30T01:56:57.171875Z
+89720
+jaehyoung.eum
 
 
 
@@ -236,7 +304,7 @@ file
 
 
 
-2017-06-13T00:39:15.174068Z
+2017-06-13T00:39:45.858114Z
 69776902a3dccf0b83c9a351cc23210f
 2011-02-07T20:14:52.618750Z
 53805
@@ -270,11 +338,11 @@ file
 
 
 
-2017-06-13T00:39:15.174068Z
-3c1501a742bf6624e126ad6af4ffbfa9
-2011-04-25T06:46:42.160514Z
-62402
-jonghoon.kim
+2017-06-13T00:39:45.858114Z
+224a215b234c7ef866a484714faee79a
+2012-05-30T01:56:57.171875Z
+89720
+jaehyoung.eum
 
 
 
@@ -296,5 +364,5 @@ jonghoon.kim
 
 
 
-12429
+15661
 

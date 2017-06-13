@@ -1,5 +1,5 @@
 /*
- * Copyright 2008-2011 the original author or authors.
+ * Copyright 2008-2012 the original author or authors.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@ import javax.inject.Inject;
 import org.anyframe.pagination.Page;
 import org.anyframe.plugin.springrest.domain.Movie;
 import org.anyframe.query.QueryService;
-import org.anyframe.query.dao.AbstractDao;
+import org.anyframe.query.dao.QueryServiceDaoSupport;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Repository;
 
@@ -30,7 +30,7 @@ import org.springframework.stereotype.Repository;
  * @author Jeryeon Kim
  */
 @Repository("springrestMovieDao")
-public class MovieDao extends AbstractDao {
+public class MovieDao extends QueryServiceDaoSupport {
 	@Value("#{contextProperties['pageSize'] ?: 10}")
 	int pageSize;
 
@@ -43,28 +43,27 @@ public class MovieDao extends AbstractDao {
 	}
 
 	public void create(Movie movie) throws Exception {
-		movie.setMovieId("MV-" + System.currentTimeMillis());		
-		create("SpringrestMovie", movie);
+		movie.setMovieId("MV-" + System.currentTimeMillis());
+		create("createSpringrestMovie", movie);
 	}
 
 	public void remove(String movieId) throws Exception {
 		Movie movie = new Movie();
 		movie.setMovieId(movieId);
-		remove("SpringrestMovie", movie);
+		remove("removeSpringrestMovie", movie);
 	}
 
 	public void update(Movie movie) throws Exception {
-		update("SpringrestMovie", movie);
+		update("updateSpringrestMovie", movie);
 	}
 
 	public Movie get(String movieId) throws Exception {
 		Movie movie = new Movie();
 		movie.setMovieId(movieId);
-		return (Movie) findByPk("SpringrestMovie", movie);
+		return (Movie) findByPk("findSpringrestMovieByPk", movie);
 	}
 
 	public Page getPagingList(Movie movie, int pageIndex) throws Exception {
-		return this.findListWithPaging("SpringrestMovie", movie, pageIndex, pageSize,
-				pageUnit);
+		return this.findListWithPaging("findSpringrestMovieList", movie, pageIndex, pageSize, pageUnit);
 	}
 }

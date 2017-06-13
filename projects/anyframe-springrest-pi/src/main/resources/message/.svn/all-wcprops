@@ -1,35 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
 V 146
-/subv/!svn/ver/75297/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/resources/message
+/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/message
 END
 message-converter.properties
 K 25
 svn:wc:ra_dav:version-url
 V 175
-/subv/!svn/ver/75297/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/resources/message/message-converter.properties
+/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/message/message-converter.properties
 END
 message-moviefinder.properties
 K 25
 svn:wc:ra_dav:version-url
 V 177
-/subv/!svn/ver/75297/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/resources/message/message-moviefinder.properties
+/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/message/message-moviefinder.properties
 END
 message-moviefinder_en.properties
 K 25
 svn:wc:ra_dav:version-url
 V 180
-/subv/!svn/ver/75297/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/resources/message/message-moviefinder_en.properties
+/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/message/message-moviefinder_en.properties
 END
 message-generation.properties
 K 25
 svn:wc:ra_dav:version-url
 V 176
-/subv/!svn/ver/75297/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/resources/message/message-generation.properties
+/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/message/message-generation.properties
 END
 message-moviefinder_ko.properties
 K 25
 svn:wc:ra_dav:version-url
 V 180
-/subv/!svn/ver/75297/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.1/projects/anyframe-springrest-pi/src/main/resources/message/message-moviefinder_ko.properties
+/subv/!svn/ver/89688/anyframe-opensource/anyframe/tags/plugin/optional/springrest/1.0.2/projects/anyframe-springrest-pi/src/main/resources/message/message-moviefinder_ko.properties
 END
